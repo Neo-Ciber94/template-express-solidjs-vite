@@ -6,3 +6,7 @@ A simple template that uses:
 - SolidJS
 - Vite
 - Typescript
+
+## Run
+
+To start use `npm run dev`
