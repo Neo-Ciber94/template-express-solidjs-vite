@@ -9,4 +9,4 @@ A simple template that uses:
 
 ## Run
 
-To start use `npm run dev`
+After installing dependencies start with `npm run dev`
