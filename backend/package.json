@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "scripts": {
-    "dev": "nodemon --ext ts --exec tsx src/index.ts"
+    "dev": "nodemon --ext ts --exec tsx src/server.ts"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
